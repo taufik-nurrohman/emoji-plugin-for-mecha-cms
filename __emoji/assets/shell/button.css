@@ -1,0 +1,33 @@
+.custom-drop-emoji .emoji-map {
+  max-width:28em;
+  max-height:28em;
+  overflow:auto;
+}
+
+.custom-drop-emoji span,
+.custom-drop-emoji a {
+  display:block;
+  float:left;
+  width:2em;
+  height:2em;
+  line-height:2em;
+  text-align:center;
+  cursor:pointer;
+}
+
+.custom-drop-emoji span img {
+  display:block;
+  margin:0;
+  padding:0;
+  background:none;
+  border:0;
+  outline:0;
+  border-radius:0;
+  box-shadow:none;
+  max-width:none;
+  max-height:none;
+  width:50%;
+  height:50%;
+  margin:25% 0 0 25%;
+  cursor:inherit;
+}

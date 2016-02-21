@@ -1,0 +1,18 @@
+Title: Bantuan Emoji
+Author: Taufik Nurrohman
+URL: http://latitudu.com
+Version: 1.0.0
+
+====
+
+> Plugin emoji asli.
+
+Plugin ini akan menambahkan peta kode karakter emoji standar untuk Anda agar Anda bisa dengan mudah menyisipkan karakter-karakter emoji ke dalam area teks. Semua tampilan emoji akan dipasok oleh fon emoji bawaan peramban (dan mungkin sistem), dan mungkin tampak berbeda pada perangkat yang menjalankan sistem operasi yang berbeda.
+
+#### Referensi
+
+ - <http://emojipedia.org>
+ - <https://id.wikipedia.org/wiki/Emoji>
+ - <http://getemoji.com>
+
+<!-- block:donate -->

@@ -1,0 +1,7 @@
+plugin_emoji:
+  title:
+    0: Emoji
+    1:
+      plus: More
+      minus: Less
+      times: Clear Sessions
