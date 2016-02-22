@@ -38,7 +38,7 @@
                     });
                 }, s, ss;
             editor.drop('emoji', function(content) {
-                content.innerHTML = '<div class="emoji-map"></div>';
+                content.innerHTML = '<div></div>';
                 if (!recent && r) more_less('minus', content, editor);
                 for (var i = 0, len = emoji.length; i < len; ++i) {
                     s = d.createElement('span');
